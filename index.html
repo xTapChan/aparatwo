@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AparaTwo - Offline Dual Camera</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body class="dark-theme">
+
+    <div class="top-controls">
+        <button id="theme-toggle" class="side-btn side-left">
+            <span class="btn-icon">🌙 / ☀️</span>
+            <span class="btn-label">theme / motyw</span>
+        </button>
+
+        <button id="lang-toggle" class="side-btn side-right">
+            <span class="btn-icon">EN / PL</span>
+            <span class="btn-label">language / język</span>
+        </button>
+    </div>
+
+    <div class="main-container">
+        <header class="top-segment">
+            <div class="app-info">
+                <img src="images/appicon.png" alt="AparaTwo App Icon" class="app-icon">
+                <div class="app-title-author">
+                    <h1>AparaTwo</h1>
+                    <p class="author">by <a href="https://github.com/xTapChan" target="_blank" rel="noopener noreferrer">TapChan</a></p>
+                </div>
+            </div>
+            
+            <div class="action-buttons">
+                <div class="download-section">
+                    <a href="https://github.com/xTapChan/aparatwo/releases/download/v1.0/AparaTwo.apk" class="btn btn-download" data-key="download">Free download</a>
+                    <span class="requirements" data-key="requirements">for Android (15+)</span>
+                </div>
+            </div>
+        </header>
+
+        <hr class="divider">
+
+        <main class="middle-segment">
+            <div class="description-container">
+                <h2 data-key="aboutTitle">About this app</h2>
+                <p id="short-desc" data-key="shortDesc">
+                    AparaTwo is an offline camera app inspired by BeReal. Capture authentic moments using both front and back cameras simultaneously, without needing an internet connection.
+                </p>
+                <div id="full-desc" class="hidden" data-key="fullDesc">
+                    Take full control of your dual photos!<br>Features include:<br>
+                    • Change and preview the position of the small photo<br>
+                    • Front flash (bright white interface for better selfies)<br>
+                    • Photo gallery preview in the bottom left corner<br>
+                    • Two camera modes (main back / small front AND main front / small back)<br>
+                    • Elegant rounded corners for your photos.
+                </div>
+                <button id="read-more-btn" class="text-btn" data-key="readMore">Read more</button>
+            </div>
+            <br>
+
+            <div class="gallery-section">
+                <div class="gallery-container">
+                    <img src="images/photo.jpg" alt="Photo Example" class="gallery-img">
+                    <img src="images/front-flash.jpg" alt="Front Flash Feature" class="gallery-img">
+                    <img src="images/interface.jpg" alt="App Interface" class="gallery-img">
+                </div>
+            </div>
+
+            <div class="install-section">
+                <h2 data-key="installTitle">How to install</h2>
+                <ol class="install-steps">
+                    <li data-key="step1">Download the APK file using the "Free download" button above.</li>
+                    <li data-key="step2">Open your device's <b>Settings</b> and navigate to <b>Security</b> or <b>Privacy</b>.</li>
+                    <li data-key="step3">Enable the option to <b>Install from Unknown Sources</b> (or allow your browser to install apps).</li>
+                    <li data-key="step4">Locate the downloaded file in your <b>Downloads</b> folder and tap it to install.</li>
+                </ol>
+            </div>
+        </main>
+
+        <hr class="divider">
+
+        <footer class="bottom-segment">
+            <h2 data-key="contactTitle">Developer Contact</h2>
+            <div class="contact-info">
+                <p>Kamil Krawczyk <span data-key="aka">also known as</span> TapChan</p>
+                <p><a href="mailto:xtapchan@gmail.com">xtapchan@gmail.com</a></p>
+                <p class="support-note" data-key="supportNote">If you'd like to support my work, feel free to reach out via email!</p>
+            </div>
+            
+            <div class="disclaimer" data-key="disclaimer">
+                AparaTwo is an independent project. This application and its developer are not affiliated with, associated with, authorized, endorsed by, or in any way officially connected to BeReal or any of its subsidiaries or its affiliates. Optional donations go solely toward supporting the independent developer's time.
+            </div>
+        </footer>
+    </div>
+
+    <div id="image-modal" class="modal">
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="enlarged-img">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

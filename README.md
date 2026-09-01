@@ -1,2 +1,42 @@
-# aparatwo
-An offline dual-camera Android app inspired by BeReal.
+# AparaTwo
+
+# 🇺🇸 English
+
+AparaTwo is an offline camera application inspired by BeReal that lets you capture authentic moments using both your front and back cameras simultaneously. 
+
+### Key Features
+- **Two modes:** Swap between modes (main back/small front or main front/small back).
+- **Customizable layout:** Change the position of the small photo with a visible live preview.
+- **Front flash:** The app interface turns completely white to illuminate your face for front-facing photos in low light.
+- **Quick gallery preview:** View your recent photos directly in the bottom left corner.
+- **Aesthetics:** Elegant rounded corners automatically applied to your captures.
+
+### Installation
+1. **Download the APK file**: Get the latest release from the [Releases tab](https://github.com/xTapChan/aparatwo/releases).
+2. **Allow Installation**: If prompted, allow your browser to install apps from unknown sources.
+3. **Google Play Protect**: Select **Scan app**, then **Install**.
+
+### Support
+If you would like to support this project, please contact me via email:
+**[xtapchan@gmail.com](mailto:xtapchan@gmail.com)**
+
+---
+
+# 🇵🇱 Polski
+
+AparaTwo to działająca offline aplikacja aparatu inspirowana BeReal, pozwalająca na uchwycenie autentycznych chwil przy użyciu przedniego i tylnego aparatu w tym samym czasie.
+
+### Główne Funkcje
+- **Dwa tryby:** Możliwość wyboru trybu (główne zdjęcie tylnym aparatem / małe przednim lub na odwrót).
+- **Personalizacja układu:** Zmiana pozycji małego zdjęcia z widocznym, żywym podglądem na ekranie.
+- **Przedni flesz:** Interfejs zmienia kolor na całkowicie biały, by doświetlić twarz przy robieniu zdjęć przednią kamerą w ciemności.
+- **Podgląd galerii:** Szybki podgląd zrobionych zdjęć widoczny w lewym dolnym rogu.
+- **Estetyka:** Eleganckie, zaokrąglone rogi automatycznie nakładane na zrobione zdjęcia.
+
+### Instalacja
+1. **Pobierz plik APK**: Najnowszą wersję znajdziesz w [zakładce Releases](https://github.com/xTapChan/aparatwo/releases).
+2. **Zezwól na instalację**: Jeśli system zapyta, zezwól przeglądarce na instalację z nieznanych źródeł.
+3. **Google Play Protect**: Najpierw wybierz **Skanuj aplikację**, a później **Zainstaluj**.
+
+---
+**Created by Kamil Krawczyk (TapChan)**
