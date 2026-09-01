@@ -1,6 +1,6 @@
 # AparaTwo
 
-# 🇺🇸 English
+# 🇺🇸
 
 AparaTwo is an offline camera application inspired by BeReal that lets you capture authentic moments using both your front and back cameras simultaneously. 
 
@@ -16,13 +16,9 @@ AparaTwo is an offline camera application inspired by BeReal that lets you captu
 2. **Allow Installation**: If prompted, allow your browser to install apps from unknown sources.
 3. **Google Play Protect**: Select **Scan app**, then **Install**.
 
-### Support
-If you would like to support this project, please contact me via email:
-**[xtapchan@gmail.com](mailto:xtapchan@gmail.com)**
-
 ---
 
-# 🇵🇱 Polski
+# 🇵🇱
 
 AparaTwo to działająca offline aplikacja aparatu inspirowana BeReal, pozwalająca na uchwycenie autentycznych chwil przy użyciu przedniego i tylnego aparatu w tym samym czasie.
 
@@ -37,6 +33,16 @@ AparaTwo to działająca offline aplikacja aparatu inspirowana BeReal, pozwalaj�
 1. **Pobierz plik APK**: Najnowszą wersję znajdziesz w [zakładce Releases](https://github.com/xTapChan/aparatwo/releases).
 2. **Zezwól na instalację**: Jeśli system zapyta, zezwól przeglądarce na instalację z nieznanych źródeł.
 3. **Google Play Protect**: Najpierw wybierz **Skanuj aplikację**, a później **Zainstaluj**.
+
+---
+
+## Technical Info / Technikalia
+- **Min SDK**: Android 15 (API 35)
+- **Language**: Java
+
+### Support / Wsparcie
+If you would like to support this project, please contact me via email:
+**[xtapchan@gmail.com](mailto:xtapchan@gmail.com)**
 
 ---
 **Created by Kamil Krawczyk (TapChan)**
