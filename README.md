@@ -1,4 +1,4 @@
-# AparaTwo
+# [AparaTwo](https://xtapchan.github.io/aparatwo/)
 
 # 🇺🇸
 
@@ -12,7 +12,7 @@ AparaTwo is an offline camera application inspired by BeReal that lets you captu
 - **Aesthetics:** Elegant rounded corners automatically applied to your captures.
 
 ### Installation
-1. **Download the APK file**: Get the latest release from the [Releases tab](https://github.com/xTapChan/aparatwo/releases).
+1. **Download the APK file**: Go to [my page](https://xtapchan.github.io/aparatwo/), [here](https://github.com/xTapChan/aparatwo/releases/download/v1.0/AparaTwo.apk) or [releases](https://github.com/xTapChan/aparatwo/releases).
 2. **Allow Installation**: If prompted, allow your browser to install apps from unknown sources.
 3. **Google Play Protect**: Select **Scan app**, then **Install**.
 
@@ -30,7 +30,7 @@ AparaTwo to działająca offline aplikacja aparatu inspirowana BeReal, pozwalaj�
 - **Estetyka:** Eleganckie, zaokrąglone rogi automatycznie nakładane na zrobione zdjęcia.
 
 ### Instalacja
-1. **Pobierz plik APK**: Najnowszą wersję znajdziesz w [zakładce Releases](https://github.com/xTapChan/aparatwo/releases).
+1. **Pobierz plik APK**: Przejdź do [mojej strony](https://xtapchan.github.io/aparatwo/) lub [tutaj](https://github.com/xTapChan/aparatwo/releases/download/v1.0/AparaTwo.apk) albo do [releases](https://github.com/xTapChan/aparatwo/releases).
 2. **Zezwól na instalację**: Jeśli system zapyta, zezwól przeglądarce na instalację z nieznanych źródeł.
 3. **Google Play Protect**: Najpierw wybierz **Skanuj aplikację**, a później **Zainstaluj**.
 
